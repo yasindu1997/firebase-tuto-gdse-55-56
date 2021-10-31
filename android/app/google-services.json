@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "182236100766",
+    "project_id": "gdse-firebase-tuto",
+    "storage_bucket": "gdse-firebase-tuto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182236100766:android:49dc43fe73ca61308a638f",
+        "android_client_info": {
+          "package_name": "com.gdse_firebase_tuto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182236100766-eoe5mv0rhsgbd8r82bf03he23lmvvmq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gdse_firebase_tuto",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "182236100766-aj807fpqhltejj7mmbvs58gjrd1ts9v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpXAovLYgy3DFhf1MNZYbKsv7ZtwFK3jU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182236100766-aj807fpqhltejj7mmbvs58gjrd1ts9v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
