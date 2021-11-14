@@ -4,6 +4,7 @@ import SignUp from './SignUp';
 import SignIn from './SignIn';
 import Firestore from './Firestore';
 import LoadAll from './LoadAll';
+import Upload from './Upload';
 
 export default class App extends Component {
   constructor(props) {
@@ -14,7 +15,7 @@ export default class App extends Component {
 
   render() {
     return (
-      <LoadAll />
+      <Upload />
     );
   }
 }
